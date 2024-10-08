@@ -1,5 +1,3 @@
-Вот пример README для вашего проекта на GitHub:
-
 WeatherApp
 
 Описание
